@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\PassagensAereasCSharp\obj\Debug\net8.0\PassagensAereasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\PassagensAereasCSharp\obj\Debug\net8.0\PassagensAereasCSharp.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\PassagensAereasCSharp\obj\Debug\net8.0\PassagensAereasCSharp.AssemblyInfo.cs
+C:\Users\fic\Desktop\PassagensAereasCSharp\obj\Debug\net8.0\PassagensAereasCSharp.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\PassagensAereasCSharp\bin\Debug\net8.0\PassagensAereasCSharp.exe
+C:\Users\fic\Desktop\PassagensAereasCSharp\bin\Debug\net8.0\PassagensAereasCSharp.deps.json
+C:\Users\fic\Desktop\PassagensAereasCSharp\bin\Debug\net8.0\PassagensAereasCSharp.runtimeconfig.json
+C:\Users\fic\Desktop\PassagensAereasCSharp\bin\Debug\net8.0\PassagensAereasCSharp.dll
+C:\Users\fic\Desktop\PassagensAereasCSharp\bin\Debug\net8.0\PassagensAereasCSharp.pdb
+C:\Users\fic\Desktop\PassagensAereasCSharp\obj\Debug\net8.0\PassagensAereasCSharp.dll
+C:\Users\fic\Desktop\PassagensAereasCSharp\obj\Debug\net8.0\refint\PassagensAereasCSharp.dll
+C:\Users\fic\Desktop\PassagensAereasCSharp\obj\Debug\net8.0\PassagensAereasCSharp.pdb
+C:\Users\fic\Desktop\PassagensAereasCSharp\obj\Debug\net8.0\PassagensAereasCSharp.genruntimeconfig.cache
+C:\Users\fic\Desktop\PassagensAereasCSharp\obj\Debug\net8.0\ref\PassagensAereasCSharp.dll
