@@ -12,3 +12,4 @@ C:\Users\fic\Desktop\PassagensAereasCSharp\obj\Debug\net8.0\refint\PassagensAere
 C:\Users\fic\Desktop\PassagensAereasCSharp\obj\Debug\net8.0\PassagensAereasCSharp.pdb
 C:\Users\fic\Desktop\PassagensAereasCSharp\obj\Debug\net8.0\PassagensAereasCSharp.genruntimeconfig.cache
 C:\Users\fic\Desktop\PassagensAereasCSharp\obj\Debug\net8.0\ref\PassagensAereasCSharp.dll
+C:\Users\fic\Desktop\PassagensAereasCSharp\obj\Debug\net8.0\PassagensAereasCSharp.sourcelink.json

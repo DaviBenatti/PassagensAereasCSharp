@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PassagensAereasCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da7bfa46299c2e05ff93e365765a9d86982e89e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PassagensAereasCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PassagensAereasCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
